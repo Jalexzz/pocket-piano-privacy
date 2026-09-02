@@ -2,7 +2,7 @@
 
 **Last Updated: Aug 31, 2026**
 
-This privacy policy governs your use of the mobile application **PocketPiano** (the "Application") created by **Alexander Kwan**.
+This privacy policy governs your use of the mobile application **Pocket Grand Piano** (the "Application") created by **Alexander Kwan**.
 
 ### 1. Information Collection and Use
 The Application does not actively collect, store, or transmit any personally identifiable information from its users. 
